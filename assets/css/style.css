@@ -1,0 +1,37 @@
+input {
+display:inline;
+
+}
+p {
+    display:inline;
+    
+}
+#header {
+    background-color: lightblue;
+    position:fixed;
+    top:0px;
+    width: 100%;
+    height:75px;
+    align-items: center;
+    text-align: center;
+}
+#loginContainer {
+    margin: auto;
+    width: 50%;
+    position: relative;
+    top:200px;
+}
+#footer {
+    background-color: lightblue;
+    position:fixed;
+    bottom:0px;
+    width: 100%;
+    text-align: center;
+    height:50px;
+}
+#image-1 {
+    border: solid black 3px;
+    position:relative;
+    top:20vh;
+    left:25vw;
+}
